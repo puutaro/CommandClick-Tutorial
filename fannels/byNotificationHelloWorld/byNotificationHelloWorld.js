@@ -17,7 +17,7 @@ scriptFileName="by_notification_hello_world.js"
 
 /// CMD_VARIABLE_SECTION_START
 PLAY=""
-MESSAGE=""
+MESSAGE="hello world"
 /// CMD_VARIABLE_SECTION_END
 
 
