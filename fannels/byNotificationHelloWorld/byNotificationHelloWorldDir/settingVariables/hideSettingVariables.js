@@ -1,4 +1,4 @@
 editExecute,
-terminalSizeType,
+onAutoExec,
 setReplaceVariables,
 setVariableTypes,
